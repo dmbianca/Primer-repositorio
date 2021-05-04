@@ -1,4 +1,4 @@
-Proceso pgmprueba
-	Escribir "Este es otro programa de psint para la clase de GIT";
+Proceso pgm3
+	Escribir "nuevo programa para el reto";
 	
 FinProceso
